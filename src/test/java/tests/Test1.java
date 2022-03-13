@@ -6,7 +6,7 @@ public class Test1
 	{
 		String x="ufbukfhbkf#$^&&57$^784FHJ";
 		String y=x.replaceAll("[^0-9]","");
-		System.out.println(y);
+		System.out.println("y");
 	}
 
 }
